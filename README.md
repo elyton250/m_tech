@@ -1,2 +1,2 @@
-# m_tech
-for minetech
+# minetech
+this for mintech project for miners safety
